@@ -1,0 +1,6 @@
+/node_modules
+/cache
+/cache_*
+.project
+package-lock.json
+
